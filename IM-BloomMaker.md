@@ -1,3 +1,5 @@
+# IM-Bloommaker  
+
 - [IM-Bloommaker](#im-bloommaker)
   - [1. Hello world](#1-hello-world)
   - [2. 创建Repository的词典项目和实体](#2-创建repository的词典项目和实体)
@@ -12,8 +14,6 @@
   - [11. 用户信息编辑处理](#11-用户信息编辑处理)
   - [12. 制作图表页面](#12-制作图表页面)
 
-# IM-Bloommaker  
-  
 ---
 
 ## 1. Hello world
@@ -262,7 +262,7 @@
 20. 登记其他图标路由 ![登记路由](screenshot/20230405155257.png)
 21. 登记饼状图标路由 ![饼状图标路由](screenshot/20230405155329.png)
 22. 设置认证用户许可
-23. 新建 ![新建](screenshot/20230405155439.png) 
+23. 新建 ![新建](screenshot/20230405155439.png)
 24. 设计编辑 放入标题级别1 textContent设置为 "图表显示"
 25. 将图表下 饼图, 折线图, 柱状图, 雷达图放入右侧
 26. 设置变量 ![设置变量](screenshot/20230405155819.png)
